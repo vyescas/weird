@@ -1,0 +1,16 @@
+body{
+  font-family:'Open Sans', sans-serif;
+  font-size:200%;
+  font-weight: bold;
+}
+
+div {
+  height: 500%;
+  line-height: 1000%;
+  text-align: center;
+}
+span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1000%;
+}
