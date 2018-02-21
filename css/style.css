@@ -12,5 +12,5 @@ div {
 span {
   display: inline-block;
   vertical-align: middle;
-  line-height: 1000%;
+  line-height: normal;
 }
